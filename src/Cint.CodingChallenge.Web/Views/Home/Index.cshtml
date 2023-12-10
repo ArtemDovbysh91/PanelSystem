@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Welcome to the Cint Coding Challenge project!</p>
+
+    <form id="searchForm" autocomplete="off" name="searchForm" method="post" asp-controller="Survey" asp-action="Search">
+        <input id="input-surveys" name="name" type="text" list="surveys" />
+        <datalist id="surveys"></datalist>
+        <input type="submit" value="Search" />
+    </form>
+</div>
+
+<ul id="searchResults" name="searchResults"></ul>
