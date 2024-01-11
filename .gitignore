@@ -407,4 +407,4 @@ FodyWeavers.xsd
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio
 
-/src/Cint.CodingChallenge.Web/wwwroot/lib/
+# /src/Cint.CodingChallenge.Web/wwwroot/lib/

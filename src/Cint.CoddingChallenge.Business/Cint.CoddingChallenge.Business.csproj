@@ -7,8 +7,8 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\src\Cint.CodingChallenge.Data\Cint.CodingChallenge.Data.csproj" />
-      <ProjectReference Include="..\src\Cint.CodingChallenge.Model\Cint.CodingChallenge.Model.csproj" />
+      <ProjectReference Include="..\Cint.CodingChallenge.Data\Cint.CodingChallenge.Data.csproj" />
+      <ProjectReference Include="..\Cint.CodingChallenge.Model\Cint.CodingChallenge.Model.csproj" />
     </ItemGroup>
 
 </Project>

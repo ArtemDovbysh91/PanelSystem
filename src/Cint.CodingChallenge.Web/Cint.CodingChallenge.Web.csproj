@@ -16,6 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\Cint.CoddingChallenge.Business\Cint.CoddingChallenge.Business.csproj" />
+    <ProjectReference Include="..\Cint.CoddingChallenge.Business\Cint.CoddingChallenge.Business.csproj" />
     <ProjectReference Include="..\Cint.CodingChallenge.Data\Cint.CodingChallenge.Data.csproj" />
   </ItemGroup>
 
