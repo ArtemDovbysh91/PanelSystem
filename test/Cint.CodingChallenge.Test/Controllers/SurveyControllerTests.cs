@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Moq;
 using System.Threading.Tasks;
-using Cint.CoddingChallenge.Business;
+using Cint.CodingChallenge.Business;
 using Cint.CodingChallenge.Model.DTO.Requests;
 using Cint.CodingChallenge.Model.DTO.Responses;
 using Cint.CodingChallenge.Web.Controllers;

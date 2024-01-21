@@ -1,7 +1,7 @@
 ﻿using Cint.CodingChallenge.Model.DTO.Requests;
 using Cint.CodingChallenge.Model.DTO.Responses;
 
-namespace Cint.CoddingChallenge.Business;
+namespace Cint.CodingChallenge.Business;
 
 public interface ISurveyService
 {

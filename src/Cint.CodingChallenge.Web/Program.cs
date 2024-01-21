@@ -1,4 +1,4 @@
-using Cint.CoddingChallenge.Business;
+using Cint.CodingChallenge.Business;
 using Cint.CodingChallenge.Data;
 using Cint.CodingChallenge.Data.Repositories;
 using Microsoft.EntityFrameworkCore;

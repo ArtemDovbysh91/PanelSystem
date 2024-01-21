@@ -1,4 +1,4 @@
-﻿using Cint.CoddingChallenge.Business;
+﻿using Cint.CodingChallenge.Business;
 using Cint.CodingChallenge.Model.DTO.Requests;
 using Cint.CodingChallenge.Model.DTO.Responses;
 using Microsoft.AspNetCore.Mvc;

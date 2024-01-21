@@ -3,7 +3,7 @@ using Cint.CodingChallenge.Model.DBSet;
 using Cint.CodingChallenge.Model.DTO.Requests;
 using Cint.CodingChallenge.Model.DTO.Responses;
 
-namespace Cint.CoddingChallenge.Business;
+namespace Cint.CodingChallenge.Business;
 
 public class SurveyService: ISurveyService
 {

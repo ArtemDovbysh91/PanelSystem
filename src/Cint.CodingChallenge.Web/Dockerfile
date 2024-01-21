@@ -18,7 +18,7 @@ WORKDIR /src
 COPY ["src/Cint.CodingChallenge.Web/Cint.CodingChallenge.Web.csproj", "src/Cint.CodingChallenge.Web/"]
 COPY ["src/Cint.CodingChallenge.Data/Cint.CodingChallenge.Data.csproj", "src/Cint.CodingChallenge.Data/"]
 COPY ["src/Cint.CodingChallenge.Model/Cint.CodingChallenge.Model.csproj", "src/Cint.CodingChallenge.Model/"]
-COPY ["Cint.CoddingChallenge.Business/Cint.CoddingChallenge.Business.csproj", "Cint.CoddingChallenge.Business/"]
+COPY ["src/Cint.CodingChallenge.Business/Cint.CodingChallenge.Business.csproj", "src/Cint.CodingChallenge.Business/"]
 RUN dotnet restore "src/Cint.CodingChallenge.Web/Cint.CodingChallenge.Web.csproj"
 COPY . .
 WORKDIR "/src/src/Cint.CodingChallenge.Web/app"
